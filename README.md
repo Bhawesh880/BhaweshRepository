@@ -14,9 +14,9 @@
 With the divine grace of the almighty,
 inviting you and your family to elder sister's wedding to be held on **27th April at [Sadbhavana Sadan](https://www.google.com/maps/place/Bank+Colony,+Sundarpur,+Darbhanga,+Bihar+846005/@26.1731929,85.8905895,18.12z/data=!4m5!3m4!1s0x39edb7806f49ed8f:0xef1b3eb903943b50!8m2!3d26.173071!4d85.8915529), Laxmisagar, Darbhanga 846005 from 7:00 PM** onwards.
 
-- [Download](https://github.com/Bhawesh880/BhaweshRepository/blob/main/invitation/My%20Invitation%20(1).pdf) the Invitation card
+- [Download](https://github.com/Bhawesh880/BhaweshRepository/blob/main/docs/Bhawesh%20%26%20Shikha.pdf) the Invitation card
 
-- Find [venue](google.com/maps/place/Bank+Colony,+Sundarpur,+Darbhanga,+Bihar+846005/@26.1731929,85.8905895,18.12z/data=!4m5!3m4!1s0x39edb7806f49ed8f:0xef1b3eb903943b50!8m2!3d26.173071!4d85.8915529) on Google map
+- Find [venue](https://goo.gl/maps/n45fbkFVKQdA5vzy7) on Google map
 
 - Visit the [website](https://elaborate-pavlova-2f61c3.netlify.app) for more details
 
