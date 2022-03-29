@@ -12,7 +12,7 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **27th April at [Sadbhavana Sadan](https://www.google.com/maps/place/Bank+Colony,+Sundarpur,+Darbhanga,+Bihar+846005/@26.1731929,85.8905895,18.12z/data=!4m5!3m4!1s0x39edb7806f49ed8f:0xef1b3eb903943b50!8m2!3d26.173071!4d85.8915529), Laxmisagar, Darbhanga 846005 from 7:00 PM** onwards.
+inviting you and your family to elder sister's wedding to be held on **27th April at [Sadbhavana Sadan](https://goo.gl/maps/n45fbkFVKQdA5vzy7), Laxmisagar, Darbhanga 846005 from 7:00 PM** onwards.
 
 - [Download](https://github.com/Bhawesh880/BhaweshRepository/blob/main/docs/Bhawesh%20%26%20Shikha.pdf) the Invitation card
 
@@ -22,8 +22,6 @@ inviting you and your family to elder sister's wedding to be held on **27th Apri
 
 - See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
 
-- See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
-
 ```js
 
 const newCouple = 'Bhawesh & Shikha';
@@ -31,7 +29,7 @@ const newCouple = 'Bhawesh & Shikha';
 // April 27, 2022
 const weddingDate = new Date(2022, 04, 27);
 
-// Wedding venue: https://www.google.com/maps/place/Bank+Colony,+Sundarpur,+Darbhanga,+Bihar+846005/@26.1731929,85.8905895,18.12z/data=!4m5!3m4!1s0x39edb7806f49ed8f:0xef1b3eb903943b50!8m2!3d26.173071!4d85.8915529
+// Wedding venue: https://goo.gl/maps/n45fbkFVKQdA5vzy7
 const weddingVenue = new Location('Bank Colony, Darbhanga');
 
 (function() {
