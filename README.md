@@ -2,13 +2,13 @@
 <p align="center"><a href="https://elaborate-pavlova-2f61c3.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://elaborate-pavlova-2f61c3.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: APRIL 27, 2022 <br> <a href="https://elaborate-pavlova-2f61c3.netlify.app/">https://elaborate-pavlova-2f61c3.netlify.app/</a></h1>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://elaborate-pavlova-2f61c3.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/elaborate-pavlova-2f61c3/deploys) [![GitHub license](https://github.com/Bhawesh880/BhaweshRepository/blob/main/LICENSE)](https://github.com/vinitshahdeo/Wedding-Invitation)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://elaborate-pavlova-2f61c3.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/elaborate-pavlova-2f61c3/deploys) [![GitHub license](https://github.com/Bhawesh880/BhaweshRepository/blob/main/LICENSE)](https://github.com/Bhawesh880/BhaweshRepository)
 
 ## Wedding Invitation :ring:
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://elaborate-pavlova-2f61c3.netlify.app/"><img src="./assets/img/My Invitation(3).jpeg" /></a>
+  <a href="https://elaborate-pavlova-2f61c3.netlify.app/"><img src="./assets/img/Invitation.jpeg" /></a>
 </details>
 
 With the divine grace of the almighty,
@@ -20,7 +20,7 @@ inviting you and your family to elder sister's wedding to be held on **27th Apri
 
 - Visit the [website](https://elaborate-pavlova-2f61c3.netlify.app) for more details
 
-- See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
+- See the Facebook [post]
 
 ```js
 
@@ -49,14 +49,14 @@ const weddingVenue = new Location('Bank Colony, Darbhanga');
 
 To reuse this, follow the steps:
 
-- *Replace the date in [script.js](https://github.com/vinitshahdeo/Wedding-Invitation/blob/master/js/script.js#L29) to have a timer running for your big day!*
+- Replace the date in [script.js](https://github.com/Bhawesh880/BhaweshRepository/blob/main/js/script.js) to have a timer running for your big day!
 
 ```js
 // Set the date we're counting down to
 var countDownDate = new Date("April 27, 2022 00:00:00").getTime();
 ```
 
-- *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/vinitshahdeo/Wedding-Invitation/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
+- *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/Bhawesh880/BhaweshRepository/blob/main/index.html#L69)*
 
 ```html
 <div class="music">
